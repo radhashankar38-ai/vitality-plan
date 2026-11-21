@@ -1,0 +1,8 @@
+{
+  "name": "Vitality Plan",
+  "description": "Calculate your BMI and generate a personalized diet and exercise plan using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
